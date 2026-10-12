@@ -2,6 +2,8 @@
 
 The original procedural Blender mechanical god, brought into an interactive Three.js scene. Golden armor, articulated wings, five independent celestial rings, a glowing reactor, and the original deity-to-eye animation run in a fullscreen WebGL canvas.
 
+[Open the live Three.js experience](https://seraph-01-threejs.vercel.app)
+
 ## Run locally
 
 ```sh
