@@ -27,3 +27,7 @@ Stack: React, Vite, TypeScript, Three.js, React Three Fiber, drei, React Three P
 The GitHub-connected Vercel project builds from **`seraph-realtime`**, using **Vite**, **`npm run build`**, and output directory **`dist`**. It uses Node **24.x**. Pushes to `main` deploy production; other branches create previews.
 
 Rendered films, raw exports, and local dependencies are excluded from Git. The recording tool remains available at `/?showcase`; see the viewer README for instructions.
+
+## License
+
+[MIT](LICENSE) © 2026 Shashwat.
