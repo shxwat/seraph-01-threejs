@@ -1,0 +1,14 @@
+*.blend1
+*.blend2
+__pycache__/
+seraph-01/output/
+seraph-realtime/output/
+.vercel/
+.env
+.env.*
+!.env.example
+seraph-realtime/node_modules/
+seraph-realtime/dist/
+seraph-realtime/*.tsbuildinfo
+seraph-realtime/qa/*.log
+seraph-realtime/qa/*.raw.glb

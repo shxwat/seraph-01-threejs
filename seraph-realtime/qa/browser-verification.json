@@ -1,0 +1,109 @@
+{
+  "status": "PASS",
+  "testedAt": "2026-10-12T17:55:18.620Z",
+  "browser": "Codex in-app browser",
+  "viewports": [
+    {
+      "width": 734,
+      "height": 1034
+    },
+    {
+      "width": 1280,
+      "height": 800
+    }
+  ],
+  "productionURL": "http://127.0.0.1:4173/",
+  "productionHero": {
+    "batches": "15",
+    "calls": "51",
+    "cameraDistance": "22.13",
+    "cameraX": "0.00",
+    "fps": "122",
+    "frame": "240.0",
+    "meshes": "2811",
+    "mode": "deity",
+    "paused": "false",
+    "pulse": "0",
+    "quality": "auto",
+    "ready": "true",
+    "triangles": "562023"
+  },
+  "productionEye": {
+    "batches": "15",
+    "calls": "53",
+    "cameraDistance": "22.13",
+    "cameraX": "0.00",
+    "fps": "119",
+    "frame": "432.0",
+    "meshes": "2811",
+    "mode": "eye",
+    "paused": "false",
+    "pulse": "0",
+    "quality": "auto",
+    "ready": "true",
+    "triangles": "680767"
+  },
+  "productionReturn": {
+    "batches": "15",
+    "calls": "51",
+    "cameraDistance": "22.13",
+    "cameraX": "0.00",
+    "fps": "120",
+    "frame": "240.0",
+    "meshes": "2811",
+    "mode": "deity",
+    "paused": "false",
+    "pulse": "0",
+    "quality": "auto",
+    "ready": "true",
+    "triangles": "562023"
+  },
+  "productionPulse": {
+    "batches": "15",
+    "calls": "51",
+    "cameraDistance": "22.13",
+    "cameraX": "0.00",
+    "fps": "122",
+    "frame": "240.0",
+    "meshes": "2811",
+    "mode": "deity",
+    "paused": "false",
+    "pulse": "1",
+    "quality": "auto",
+    "ready": "true",
+    "triangles": "562023"
+  },
+  "productionLow": {
+    "batches": "15",
+    "calls": "33",
+    "cameraDistance": "34.94",
+    "cameraX": "24.23",
+    "fps": "120",
+    "frame": "240.0",
+    "meshes": "2811",
+    "mode": "deity",
+    "paused": "false",
+    "pulse": "2",
+    "quality": "low",
+    "ready": "true",
+    "triangles": "281019"
+  },
+  "productionErrors": [],
+  "checks": {
+    "forwardTransformation": true,
+    "reverseTransformation": true,
+    "pauseHeld": true,
+    "reactorClick": true,
+    "lowQuality": true,
+    "orbit": "Drag changed camera X from 0.00 to 5.80 in development",
+    "zoom": "Scroll changed camera distance from 22.13 to 21.41 in development",
+    "reset": "R restored camera X to 0.00 and distance to 22.13",
+    "cinematic": "C played the original timeline with a moving evaluated Blender camera; sequence frames and camera positions were observed",
+    "portrait": "Original deity and eye remained fully framed at 734×1034"
+  },
+  "performanceNote": "FPS values are instantaneous observations on this machine, not guarantees or a sustained benchmark.",
+  "screenshots": [
+    "deity-desktop.jpg",
+    "eye-desktop.jpg"
+  ]
+}

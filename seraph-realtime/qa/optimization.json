@@ -1,0 +1,32 @@
+{
+  "rawBytes": 28714176,
+  "compressedBytes": 8882692,
+  "nodes": 3181,
+  "meshes": 401,
+  "materials": [
+    "01 · Divine gold | brushed electrum",
+    "02 · Pale gold | polished armor edges",
+    "03 · Black titanium | ceramic-coated alloy",
+    "04 · Silver machinery | machined platinum",
+    "08 · Containment filaments | white-hot",
+    "09 · Cryogenic circuitry | blue-white",
+    "10 · Orbital inscriptions | old gold",
+    "06 · Iris aperture | black optical metal",
+    "05 · Recessed inscriptions | oxidized bronze",
+    "Orbital pulse · traveling wave 1",
+    "Orbital pulse · traveling wave 2",
+    "Orbital pulse · traveling wave 3",
+    "Orbital pulse · traveling wave 4",
+    "Orbital pulse · traveling wave 5",
+    "07 · Artificial star | amber-white"
+  ],
+  "animations": [
+    {
+      "name": "Scene",
+      "channels": 3512
+    }
+  ],
+  "geometrySimplified": false,
+  "vertexQuantization": false,
+  "compression": "EXT_meshopt_compression (lossless)"
+}

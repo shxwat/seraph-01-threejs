@@ -1,0 +1,114 @@
+{
+  "status": "PASS",
+  "capture": "Actual live Three.js framebuffer captured in the browser through Canvas.captureStream and MediaRecorder",
+  "sourceModel": "Original Blender GLB",
+  "width": 1920,
+  "height": 1080,
+  "plannedDuration": 38,
+  "shots": [
+    {
+      "start": 0,
+      "end": 3,
+      "shot": "Deity reveal"
+    },
+    {
+      "start": 3,
+      "end": 8,
+      "shot": "Live camera orbit"
+    },
+    {
+      "start": 8,
+      "end": 11,
+      "shot": "Reactor close-up and pulse"
+    },
+    {
+      "start": 11,
+      "end": 14,
+      "shot": "Return to wide framing"
+    },
+    {
+      "start": 14,
+      "end": 22,
+      "shot": "Original GLB transformation"
+    },
+    {
+      "start": 22,
+      "end": 26,
+      "shot": "Eye orbit"
+    },
+    {
+      "start": 26,
+      "end": 34,
+      "shot": "Reverse transformation"
+    },
+    {
+      "start": 34,
+      "end": 38,
+      "shot": "Final deity pose"
+    }
+  ],
+  "audio": "Original synthesized stereo electronic sound design, added after capture",
+  "files": [
+    {
+      "name": "SERAPH-01-ThreeJS-Showcase-1080p.mp4",
+      "sha256": "2caada38a6dd388eb2c3f844ae7dfb632c314771a6ee5c5493306c47b9dd5b52",
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 1920,
+          "height": 1080,
+          "avg_frame_rate": "60/1",
+          "nb_frames": "2276"
+        },
+        {
+          "codec_name": "aac",
+          "sample_rate": "48000",
+          "channels": 2,
+          "avg_frame_rate": "0/0",
+          "nb_frames": "1783"
+        }
+      ],
+      "format": {
+        "duration": "38.000000",
+        "size": "105519443"
+      }
+    },
+    {
+      "name": "SERAPH-01-ThreeJS-Showcase-Share.mp4",
+      "sha256": "ebf32a113e40889d259385f21e66cb4450bb5ddd6498d1ef03adabf611f7f1f6",
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 1920,
+          "height": 1080,
+          "avg_frame_rate": "30/1",
+          "nb_frames": "1138"
+        },
+        {
+          "codec_name": "aac",
+          "sample_rate": "48000",
+          "channels": 2,
+          "avg_frame_rate": "0/0",
+          "nb_frames": "1783"
+        }
+      ],
+      "format": {
+        "duration": "38.016000",
+        "size": "15008830"
+      }
+    }
+  ],
+  "rawCapture": {
+    "codec": "vp9",
+    "frames": 2255,
+    "lastTimestamp": 37.923,
+    "averageFrameInterval": 0.016824755989352264,
+    "maximumFrameInterval": 0.177
+  },
+  "decodeCheck": "Entire share MP4 decoded without errors",
+  "visualCheck": "Reviewed eight timeline samples plus full-resolution orbit and eye frames; no blank capture, stuck animation, cropped titles, or missing transformation."
+}

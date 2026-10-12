@@ -1,0 +1,9 @@
+{
+  "status": "PASS",
+  "idleFrames": 2000,
+  "maxFloat": 0.03499999725118879,
+  "maxWingAngle": 0.01399999901933511,
+  "maxTransformError": 6.029693112585832e-7,
+  "meshes": 2811,
+  "batches": 15
+}
